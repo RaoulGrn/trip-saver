@@ -1,8 +1,15 @@
 # React + Vite
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This applications was made with React + Vite and react-leaflet (the map module).
 
-Currently, two official plugins are available:
+Setup: 
+Use npm run dev for frontend and npm run server for backend (both commands in the same root folder)
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Functionalities: browse a map, select a point on the map and save it, you can provide a date and a short description of your trip, I made this app with the ideea in mind that at some point, the users will be able to share their trips to other users and can also see and comment on other user's trips.
+
+Demo Photos:
+
+![image](https://github.com/RaoulGrn/trip-saver/assets/108396853/80fa8fe2-5c40-4f14-ade6-f266e5d0dfbd)
+![trip-saver2](https://github.com/RaoulGrn/trip-saver/assets/108396853/92de08fb-0e6c-4e2c-842b-dfb2c0a6b74d)
+![trip-saver4](https://github.com/RaoulGrn/trip-saver/assets/108396853/ecdc80a1-1078-41b4-a0e5-df130b72e151)
+![trip-saver3](https://github.com/RaoulGrn/trip-saver/assets/108396853/ab23b284-a1a1-4188-a9a4-6c7c1642eaf9)
