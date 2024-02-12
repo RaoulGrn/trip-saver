@@ -1,4 +1,4 @@
-# React + Vite
+# TripSaver
 
 This applications was made with React + Vite and react-leaflet (the map module).
 
