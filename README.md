@@ -6,7 +6,7 @@ This applications was made with React + Vite and react-leaflet (the map module).
 Use npm run dev for frontend and npm run server for backend (both commands in the same root folder)
 
 # Functionalities
-Browse a map, select a point on the map and save it, you can provide a date and a short description of your trip, I made this app with the ideea in mind that at some point, the users will be able to share their trips to other users and can also see and comment on other user's trips.
+Browse a map, select a point on the map and save it, you can provide a date and a short description of your trip, I made this app with the idea in mind that at some point, the users will be able to share their trips to other users and can also see and comment on other user's trips.
 
 Demo Photos:
 
